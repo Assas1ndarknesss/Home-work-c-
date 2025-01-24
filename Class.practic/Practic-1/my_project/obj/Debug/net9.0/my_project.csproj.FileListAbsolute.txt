@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\C#\Class.practic\Practic-1\my_project\bin\Debug\net9.0\my_project.exe
+C:\Users\DELL\Desktop\C#\Class.practic\Practic-1\my_project\bin\Debug\net9.0\my_project.deps.json
+C:\Users\DELL\Desktop\C#\Class.practic\Practic-1\my_project\bin\Debug\net9.0\my_project.runtimeconfig.json
+C:\Users\DELL\Desktop\C#\Class.practic\Practic-1\my_project\bin\Debug\net9.0\my_project.dll
+C:\Users\DELL\Desktop\C#\Class.practic\Practic-1\my_project\bin\Debug\net9.0\my_project.pdb
+C:\Users\DELL\Desktop\C#\Class.practic\Practic-1\my_project\obj\Debug\net9.0\my_project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\C#\Class.practic\Practic-1\my_project\obj\Debug\net9.0\my_project.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\C#\Class.practic\Practic-1\my_project\obj\Debug\net9.0\my_project.AssemblyInfo.cs
+C:\Users\DELL\Desktop\C#\Class.practic\Practic-1\my_project\obj\Debug\net9.0\my_project.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\C#\Class.practic\Practic-1\my_project\obj\Debug\net9.0\my_project.dll
+C:\Users\DELL\Desktop\C#\Class.practic\Practic-1\my_project\obj\Debug\net9.0\refint\my_project.dll
+C:\Users\DELL\Desktop\C#\Class.practic\Practic-1\my_project\obj\Debug\net9.0\my_project.pdb
+C:\Users\DELL\Desktop\C#\Class.practic\Practic-1\my_project\obj\Debug\net9.0\my_project.genruntimeconfig.cache
+C:\Users\DELL\Desktop\C#\Class.practic\Practic-1\my_project\obj\Debug\net9.0\ref\my_project.dll

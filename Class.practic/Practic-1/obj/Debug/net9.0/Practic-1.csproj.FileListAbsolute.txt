@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\C#\Class.practic\Practic-1\obj\Debug\net9.0\Practic-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\C#\Class.practic\Practic-1\obj\Debug\net9.0\Practic-1.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\C#\Class.practic\Practic-1\obj\Debug\net9.0\Practic-1.AssemblyInfo.cs
+C:\Users\DELL\Desktop\C#\Class.practic\Practic-1\obj\Debug\net9.0\Practic-1.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\C#\Class.practic\Practic-1\bin\Debug\net9.0\Practic-1.exe
+C:\Users\DELL\Desktop\C#\Class.practic\Practic-1\bin\Debug\net9.0\Practic-1.deps.json
+C:\Users\DELL\Desktop\C#\Class.practic\Practic-1\bin\Debug\net9.0\Practic-1.runtimeconfig.json
+C:\Users\DELL\Desktop\C#\Class.practic\Practic-1\bin\Debug\net9.0\Practic-1.dll
+C:\Users\DELL\Desktop\C#\Class.practic\Practic-1\bin\Debug\net9.0\Practic-1.pdb
+C:\Users\DELL\Desktop\C#\Class.practic\Practic-1\obj\Debug\net9.0\Practic-1.dll
+C:\Users\DELL\Desktop\C#\Class.practic\Practic-1\obj\Debug\net9.0\refint\Practic-1.dll
+C:\Users\DELL\Desktop\C#\Class.practic\Practic-1\obj\Debug\net9.0\Practic-1.pdb
+C:\Users\DELL\Desktop\C#\Class.practic\Practic-1\obj\Debug\net9.0\Practic-1.genruntimeconfig.cache
+C:\Users\DELL\Desktop\C#\Class.practic\Practic-1\obj\Debug\net9.0\ref\Practic-1.dll
