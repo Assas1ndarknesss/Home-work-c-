@@ -164,13 +164,7 @@ public class StudentManager
             }
 
         }
-                int cnt = 1;
-                System.Console.WriteLine("Студенты по возрасту:");
-                foreach (var Student in Students)
-                {
-                    System.Console.WriteLine($"{cnt}. {Student.Name} ({Student.Age} лет)");
-                    cnt++;
-                } 
+            
     }
 
 

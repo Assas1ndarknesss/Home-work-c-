@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\C#\Class.practic\Practce-16\Новая папка\bin\Debug\net9.0\Новая папка.exe
+C:\Users\DELL\Desktop\C#\Class.practic\Practce-16\Новая папка\bin\Debug\net9.0\Новая папка.deps.json
+C:\Users\DELL\Desktop\C#\Class.practic\Practce-16\Новая папка\bin\Debug\net9.0\Новая папка.runtimeconfig.json
+C:\Users\DELL\Desktop\C#\Class.practic\Practce-16\Новая папка\bin\Debug\net9.0\Новая папка.dll
+C:\Users\DELL\Desktop\C#\Class.practic\Practce-16\Новая папка\bin\Debug\net9.0\Новая папка.pdb
+C:\Users\DELL\Desktop\C#\Class.practic\Practce-16\Новая папка\obj\Debug\net9.0\Новая папка.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\C#\Class.practic\Practce-16\Новая папка\obj\Debug\net9.0\Новая папка.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\C#\Class.practic\Practce-16\Новая папка\obj\Debug\net9.0\Новая папка.AssemblyInfo.cs
+C:\Users\DELL\Desktop\C#\Class.practic\Practce-16\Новая папка\obj\Debug\net9.0\Новая папка.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\C#\Class.practic\Practce-16\Новая папка\obj\Debug\net9.0\Новая папка.sourcelink.json
+C:\Users\DELL\Desktop\C#\Class.practic\Practce-16\Новая папка\obj\Debug\net9.0\Новая папка.dll
+C:\Users\DELL\Desktop\C#\Class.practic\Practce-16\Новая папка\obj\Debug\net9.0\refint\Новая папка.dll
+C:\Users\DELL\Desktop\C#\Class.practic\Practce-16\Новая папка\obj\Debug\net9.0\Новая папка.pdb
+C:\Users\DELL\Desktop\C#\Class.practic\Practce-16\Новая папка\obj\Debug\net9.0\Новая папка.genruntimeconfig.cache
+C:\Users\DELL\Desktop\C#\Class.practic\Practce-16\Новая папка\obj\Debug\net9.0\ref\Новая папка.dll

@@ -1,0 +1,5 @@
+C:\Users\DELL\Desktop\C#\Class.practic\Practice-17\Новая папка\PracticeClass\obj\Debug\net9.0\PracticeClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\C#\Class.practic\Practice-17\Новая папка\PracticeClass\obj\Debug\net9.0\PracticeClass.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\C#\Class.practic\Practice-17\Новая папка\PracticeClass\obj\Debug\net9.0\PracticeClass.AssemblyInfo.cs
+C:\Users\DELL\Desktop\C#\Class.practic\Practice-17\Новая папка\PracticeClass\obj\Debug\net9.0\PracticeClass.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\C#\Class.practic\Practice-17\Новая папка\PracticeClass\obj\Debug\net9.0\PracticeClass.sourcelink.json
