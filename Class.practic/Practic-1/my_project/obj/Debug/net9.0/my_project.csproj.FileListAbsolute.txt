@@ -12,3 +12,4 @@ C:\Users\DELL\Desktop\C#\Class.practic\Practic-1\my_project\obj\Debug\net9.0\ref
 C:\Users\DELL\Desktop\C#\Class.practic\Practic-1\my_project\obj\Debug\net9.0\my_project.pdb
 C:\Users\DELL\Desktop\C#\Class.practic\Practic-1\my_project\obj\Debug\net9.0\my_project.genruntimeconfig.cache
 C:\Users\DELL\Desktop\C#\Class.practic\Practic-1\my_project\obj\Debug\net9.0\ref\my_project.dll
+C:\Users\DELL\Desktop\C#\Class.practic\Practic-1\my_project\obj\Debug\net9.0\my_project.sourcelink.json
